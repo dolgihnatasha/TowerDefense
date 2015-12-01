@@ -2,7 +2,7 @@
 
 Для запуска необходимы python3.4 and PyQt4
 
-##### Запуск:
+### Запуск:
     python TowerDefense.py
 
 ## Map Editor:
