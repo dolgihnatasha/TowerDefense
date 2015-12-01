@@ -1,0 +1,1 @@
+{"delay" : 50,"HP" : 100, "PointsPer" : 200,"units": 1, "color": "magenta"}
